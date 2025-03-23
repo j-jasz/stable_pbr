@@ -1,5 +1,12 @@
+# directories
+/ARCH
+
 # tests
 *test*.py
 
 /test_lch_convert.py
 /test_normal.py
+
+# image files
+.jpg
+.png
